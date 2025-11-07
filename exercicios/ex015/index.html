@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Document</title>
+    <style>
+        *{
+            margin:0;
+        }
+        @font-face {
+            src: url(idroid.otf);
+            font-family: 'Idroid';
+        }
+        body {
+            background-color: rgba(196, 181, 162, 0.863);
+        }
+     
+       header{
+        background-image: linear-gradient(to bottom, #0ca83b, #074219);
+        color: white;
+        height: 149px;
+       }
+       header p {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        text-align: center;
+       }
+       @media (max-width: 1100px) {
+        header p {
+            font-size: 13px;
+        }
+       }
+       h1{
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 32px;
+        padding: 15px;
+       }
+       .nav p {
+        font-size: 18px;
+        display: inline;
+        padding: 10px;
+       }
+       @media (max-width: 870px) {
+        .nav p {
+            font-size: 12px;
+            padding: 0px;
+        }
+       }
+       @media (max-width: 515px) {
+        .nav p {
+            color: #074219;
+        }
+       }
+       .nav p:hover {
+        background-color: #0ca83b;
+        border-radius: 5%;
+        color: #074219;
+        cursor: pointer;
+       }
+       .main {
+        background-color: white;
+        width: 70%;
+        height: 1300px;
+        margin: auto;
+       }
+       .main2 {
+        background-color: #074219;
+        width: 70%;
+        height: 550px;
+        margin: auto;
+        display: flex;
+       }
+       .main3 {
+        background-color: white;
+        width: 70%;
+        height: 530px;
+        margin: auto;
+        display: flex;
+        border-radius: 0 0 10px 10px;
+       }
+       @media (max-width: 1200px) {
+        .main, .main2 {
+            
+            height: auto;
+        }
+       }
+       @media (max-width: 1000px) {
+       .main3 {
+            height: 540px;
+        }
+       }
+
+       .main p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        text-align: justify;
+        text-indent: 10px;
+        padding: 10px 20px;
+       }
+       h2{
+        font-family: 'Idroid', sans-serif;
+        font-size: 35px;
+        padding: 20px 30px;
+        color: #0ca83b;
+       }
+       h3{
+        font-family: 'Idroid', sans-serif;
+        font-size: 28px;
+        margin-left: 20px;
+        color: #0ca83b;
+        background-image: linear-gradient(to right, #a8e6b1, #ffffff);
+       }
+       .img {
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+       }
+       @media (max-width: 1150px) {
+        .img {
+            width: 300px;
+        }
+       }
+       .video{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 17px;
+        display: flex;
+       }
+       @media (max-width: 1150px) {
+        .video {
+            width: 500px;
+            height: 300px;
+        }
+       }
+       @media (max-width: 750px) {
+        .video {
+            width: 300px;
+            height: 170px;
+            margin-top:0px;
+        }
+       }
+       .plink{
+        color: #074219;
+         background-color: #48c76e;
+         text-decoration: none;
+       }
+       .plink2{
+        color: #074219;
+         text-decoration: none;
+       }
+          .plink2:hover {
+        text-decoration: underline;
+        cursor: pointer;
+       }
+       .plink:hover {
+        text-decoration: underline;
+        cursor: pointer;
+       }
+       .div {
+        font-family: Arial, Helvetica, sans-serif;       margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        background-color: #59d37e;
+        height: 450px;
+        width: 900px;
+        border-radius: 10px;
+       }
+       @media (max-width: 1100px) {
+        .div {
+            width: 400px;
+            height: auto;
+        }
+        .div p {
+            font-size: 14px;
+        }
+       }
+       @media (max-width: 550px) {
+        .div {
+            font-size: 10px;
+        }
+       }
+       .div p {
+        padding: 15px;
+       }
+    
+       .nav2 p {
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+       }
+       .nav2{
+        height: 50px;
+        background-color: #074219;
+        width: 100%;
+        border-radius: 10px 10px 0 0;
+        display: flex;
+       }
+       aside{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 5px;
+       }
+      .pfinal {
+        position: absolute;
+        top: 2495px;
+        left: 250px;
+      }
+      @media (max-width: 1300px) {
+        .pfinal {
+            font-size: 15px;
+        }
+       }
+      @media (max-width: 1250px) {
+        .pfinal {
+            visibility: hidden;
+        }
+       }
+      @media (max-width: 1200px) {
+        footer {
+            margin-top: 250px;
+        }
+       }
+     @media (max-width: 1000px) {
+        footer {
+            margin-top: 250px;
+        }
+       }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>CURIOSIDADE DE TECNOLOGIA</h1>
+        <p>Tudo aquilo que você precisa saber sobre o mundo</p> 
+        <p>Tech, em um único lugar.</p>
+        <nav class="nav">
+            <p>Home</p>
+            <p>Noticias</p>
+            <p>Curiosidades</p>
+            <p>Fale Conosco</p>
+        </nav>
+    </header>
+    <main class="main">
+        <h2>HISTORIA DO MASCOTE DA ANDROID</h2>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sunt ab ea,<a href="#" class="plink"><strong > eligendi🔗 </strong></a>, deleniti autem illo laudantium rem commodi cumque accusamus aut fuga provident accusantium! Odio iure sit tenetur ad! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod saepe impedit enim<a href="#" class="plink"><strong> culpa🔗 </strong></a> autem ipsum iusto, possimus veritatis error vel, dignissimos officia mollitia quas aliquam nemo laudantium animi. Dolorum, odio?</p>
+        <h3>A PRIMEIRA VERSAO</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus error necessitatibus assumenda<a href="#" class="plink" ><strong> tempore🔗 </strong></a>illum similique minima in modi, rem<a href="#" class="plink"><strong > unde🔗 </strong> </a>quos quibusdam illo ea alias ipsum amet dolore deserunt minus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore maiores debitis sint harum, perspiciatis eveniet rem quae delectus ex repellendus facilis corporis totam commodi quibusdam quidem. Exercitationem, ea ullam. Tenetur.</p>
+        <img class="img" src="dan-droids.png" alt="">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <h3>SURGE UM NOVO MASCOTE</h3>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod veniam enim quos labore voluptates illum non qui <a href="#" class="plink"><strong> doloribus🔗 </strong></a> aperiam aut deleniti velit expedita volupt.</p>
+        <img class="img" src="irina-blok.jpg" alt="">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aliquid accusamus impedit dicta cum, doloremque ut sapiente sequi. Soluta sit sint ullam sapiente nobis quod quas <strong style="color: #074219;">culpa</strong>, error corrupti possimus?</p>
+        <img class="img" src="bugdroid.png" alt="">
+        <p>Lorem ipsum dolor sit amet <strong style="color: #074219;">consectetur</strong> adipisicing elit. Nam odio, quod totam ullam reiciendis id praesentium quos autem beatae quia cum iste, laboriosam, quibusdam corrupti eveniet laborum? Vero, veritatis expedita! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel et eveniet, porro aspernatur voluptas sequi veritatis quia.</p>
+        </main>
+        <main class="main2"><iframe class="video" width="860" height="515" src="https://www.youtube.com/embed/xS2D9x8odoE?si=g5YRNbJEMmzh_rKl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></main>
+        <main class="main3">
+            <div class="div">
+                <nav class="nav2">
+                    <strong>
+                        <p >Quer aprender mais?</p>
+                    </strong>
+                </nav> 
+                 <p>    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit at facere, adipisci harum facilis omnis error ut iste maxime vel! Molestias consectetur nihil nisi vero id quam. Voluptatem, quaerat voluptates!</p>
+                
+                    <aside>
+                        <ol>&#x2714; 1.5 - Cupcake</ol>
+                        <ol >&#x2714; 4.1 - Jelly Bean</ol>
+                        <ol>&#x2714; 1.6 - Donat</ol>
+                        <ol>&#x2714; 4.2 - KitKat</ol>
+                        <ol>&#x2714; 3.0 - Eclair</ol>
+                        <ol>&#x2714; 5.0 - Lollipop</ol>
+                        <ol>&#x2714; 2.2 - Froyo</ol>
+                        <ol >&#x2714; 6.0 - Marshmallow</ol>
+                        <ol>&#x2714; 2.3 - Gingerbread</ol>
+                        <ol >&#x2714; 7.0 - Nougat</ol>
+                        <ol>&#x2714; 3.0 - Honeycomb</ol>
+                        <ol>&#x2714; 8.0 - Oreo</ol>
+                        <ol>&#x2714; 4.0 - Ice Cream Sandwich</ol>
+                        <ol >&#x2714; 9.0 - Pie</ol>
+                    </aside>
+                     <p>Lorem ipsum <strong style="color:#074219;">dolor</strong>, sit amet consectetur adipisicing elit. Magni, culpa facilis natus odio provident obcaecati nesciunt rerum cumque optio <strong style="color: #074219;">quaerat</strong>
+                     </p>
+                     <p>Lorem ipsum dolor sit <a href="#" class="plink2"><strong > eligendi🔗 </strong></a> consectetur adipisicing elit. Provident tempore perspiciatis ducimus a commodi est, ipsa molestias minus dignissimos eveniet, eum dolorum.</p>
+            </div>
+            <p class="pfinal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam voluptatum quas labore soluta ipsa minus evenistu, eum dolor.</p>
+        </main>
+        <footer>
+            <p style="text-align: center; background-color: #074219; color: white; margin-top: 15px; height: 50px;">&copy; 2023 Meu Site. Todos os direitos reservados.</p>
+        </footer>
+</body>
+</html>
