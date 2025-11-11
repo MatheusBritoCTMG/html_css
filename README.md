@@ -24,3 +24,5 @@ Criando site e gerenciando repositório do CursoemVideo
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index3">Exercicio 17.3</a>
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index4">Exercicio 17.4</a>
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index5">Exercicio 17.5</a>
+<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index6">Exercicio 17.6</a>
+<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index7">Exercicio 17.7</a>
