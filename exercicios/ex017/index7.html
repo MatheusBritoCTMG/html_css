@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento Vertical</title>
+    <style>
+        *{
+            margin: 0;
+        }
+        #container {
+            height: 150px;
+            background-color: purple;
+            padding: 10px;
+            position: relative;
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+        }
+        #content {
+            height: 50px;
+            width: 250px;
+            text-align: center;
+            position: absolute; 
+            left: 50%;
+            top: 50%;
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            transform: translate(-50%, -50%);
+            padding-top: 25px;
+                font-size: 30px;
+                color: #fff;
+        }
+       #cont{
+           height: 50px;
+           width: 650px;
+           text-align: center;
+           position: absolute; 
+           left: 50%;
+           top: 50%;
+           background-image: url(imagens/target001.png);
+           background-size: 100% 100%;
+           transform: translate(50%, -50%);
+           padding-top: 25px;
+           font-size: 30px;
+           color: #fff; 
+       }
+    </style>
+</head>
+<body>
+    <section id="container">
+        <p id="content">Teste de cabeçalho</p>
+        <p id="cont">Teste dois</p>
+    </section>
+</body>
+</html>
