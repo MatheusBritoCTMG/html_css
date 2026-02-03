@@ -33,8 +33,7 @@ Desafios
 
 <a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio001 - Concluido/index">Desafio 1 </a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio002 - Concluido/index">Desafio 2 </a><br>
-<a href=" https://matheusbritoctmg.github.io/htm
-l_css/desafios/desafio003 - Concluido/index">Desafio 3 </a><br>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio003 - Concluido/index">Desafio 3 </a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio004 - Concluido/index">Desafio 4 </a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio005 - Concluido/index">Desafio 5 </a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio006 - Concluido/index">Desafio 6 </a><br>
