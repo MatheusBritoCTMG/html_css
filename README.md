@@ -3,6 +3,8 @@ HTML5 e CSS3 CursoemVideo
 
 Criando site e gerenciando repositório do CursoemVideo
 
+Exercicios
+
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex001/">Exercicio 1</a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex002/">Exercicio 2</a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex003/">Exercicio 3</a><br>
@@ -26,3 +28,7 @@ Criando site e gerenciando repositório do CursoemVideo
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index5">Exercicio 17.5</a>
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index6">Exercicio 17.6</a>
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index7">Exercicio 17.7</a>
+
+Desafios
+
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio001 - Concluido/index">
