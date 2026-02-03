@@ -31,14 +31,14 @@ Exercicios
 
 Desafios
 
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio001 - Concluido/index">Desafio 1 </a>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio002 - Concluido/index">Desafio 2 </a>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio001 - Concluido/index">Desafio 1 </a><br>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio002 - Concluido/index">Desafio 2 </a><br>
 <a href=" https://matheusbritoctmg.github.io/htm
-l_css/desafios/desafio003 - Concluido/index">Desafio 3 </a>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio004 - Concluido/index">Desafio 4 </a>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio005 - Concluido/index">Desafio 5 </a>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio006 - Concluido/index">Desafio 6 </a>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio007 - Concluido/index">Desafio 7 </a>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio008 - Concluido/index">Desafio 8 </a>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio009 - Concluido/index">Desafio 9 </a>
+l_css/desafios/desafio003 - Concluido/index">Desafio 3 </a><br>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio004 - Concluido/index">Desafio 4 </a><br>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio005 - Concluido/index">Desafio 5 </a><br>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio006 - Concluido/index">Desafio 6 </a><br>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio007 - Concluido/index">Desafio 7 </a><br>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio008 - Concluido/index">Desafio 8 </a><br>
+<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio009 - Concluido/index">Desafio 9 </a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio010 - Concluido/index">Desafio 10 </a>
