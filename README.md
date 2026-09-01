@@ -5,11 +5,11 @@ Criando site e gerenciando repositório do CursoemVideo
 
 Exercicios
 
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex001/">Exercicio 1</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex002/">Exercicio 2</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex003/">Exercicio 3</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex004/">Exercicio 4</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex005/">Exercicio 5</a><br>
+[Exercicio 1](https://matheusbritoctmg.github.io/html_css/exercicios/ex001/)  
+[Exercicio 2](https://matheusbritoctmg.github.io/html_css/exercicios/ex002/)  
+[Exercicio 3](https://matheusbritoctmg.github.io/html_css/exercicios/ex003/)  
+[Exercicio 4](https://matheusbritoctmg.github.io/html_css/exercicios/ex004/)  
+[Exercicio 5](https://matheusbritoctmg.github.io/html_css/exercicios/ex005/)
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex006/">Exercicio 6</a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex007/">Exercicio 7</a><br>
 <a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex008/">Exercicio 8</a><br>
