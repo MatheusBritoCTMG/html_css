@@ -1,43 +1,42 @@
-# html_css
 HTML5 e CSS3 CursoemVideo
 
 Criando site e gerenciando repositório do CursoemVideo
 
 Exercicios
 
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex001/">Exercicio 1</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex002/">Exercicio 2</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex003/">Exercicio 3</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex004/">Exercicio 4</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex005/">Exercicio 5</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex006/">Exercicio 6</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex007/">Exercicio 7</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex008/">Exercicio 8</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex009/">Exercicio 9</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex010/">Exercicio 10</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex011/">Exercicio 11</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex012/">Exercicio 12</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex013/">Exercicio 13</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex014/">Exercicio 14</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex015/">Exercicio 15</a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex016/">Exercicio 16</a> <br>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index">Exercicio 17</a>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index2">Exercicio 17.2</a>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index3">Exercicio 17.3</a>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index4">Exercicio 17.4</a>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index5">Exercicio 17.5</a>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index6">Exercicio 17.6</a>
-<a href=" https://matheusbritoctmg.github.io/html_css/exercicios/ex017/index7">Exercicio 17.7</a>
+[Exercicio 1](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex001/)  
+[Exercicio 2](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex002/)  
+[Exercicio 3](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex003/)  
+[Exercicio 4](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex004/)  
+[Exercicio 5](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex005/)  
+[Exercicio 6](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex006/)  
+[Exercicio 7](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex007/)  
+[Exercicio 8](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex008/)  
+[Exercicio 9](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex009/)  
+[Exercicio 10](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex010/)  
+[Exercicio 11](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex011/)  
+[Exercicio 12](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex012/)  
+[Exercicio 13](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex013/)  
+[Exercicio 14](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex014/)  
+[Exercicio 15](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex015/)  
+[Exercicio 16](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex016/)  
+[Exercicio 17](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex017/index/)  
+[Exercicio 17.2](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex017/index2)  
+[Exercicio 17.3](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex017/index3)  
+[Exercicio 17.4](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex017/index4)  
+[Exercicio 17.5](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex017/index5)  
+[Exercicio 17.6](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex017/index6)  
+[Exercicio 17.7](https://matheusbritoctmg.github.io/HTML5_CSS3_/exercicios/ex017/index7)
 
 Desafios
 
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio001 - Concluido/index">Desafio 1 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio002 - Concluido/index">Desafio 2 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio003 - Concluido/index">Desafio 3 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio004 - Concluido/index">Desafio 4 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio005 - Concluido/index">Desafio 5 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio006 - Concluido/index">Desafio 6 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio007 - Concluido/index">Desafio 7 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio008 - Concluido/index">Desafio 8 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio009 - Concluido/index">Desafio 9 </a><br>
-<a href=" https://matheusbritoctmg.github.io/html_css/desafios/desafio010 - Concluido/index">Desafio 10 </a>
+[Desafio 1](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio001%20-%20Concluido/index)  
+[Desafio 2](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio002%20-%20Concluido/index)  
+[Desafio 3](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio003%20-%20Concluido/index)  
+[Desafio 4](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio004%20-%20Concluido/index)  
+[Desafio 5](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio005%20-%20Concluido/index)  
+[Desafio 6](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio006%20-%20Concluido/index)  
+[Desafio 7](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio007%20-%20Concluido/index)  
+[Desafio 8](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio008%20-%20Concluido/index)  
+[Desafio 9](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio009%20-%20Concluido/index)  
+[Desafio 10](https://matheusbritoctmg.github.io/HTML5_CSS3_/desafios/desafio010%20-%20Concluido/index)
